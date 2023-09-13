@@ -1,4 +1,4 @@
-# `stacc` Archive
+# [`stacc`][stacc repo] Archive
 
 This is just a place to store a backup of the blog posts on [my portfolio site][portfolio site].
 
@@ -13,3 +13,4 @@ stacc-archive
 ```
 
 [portfolio site]: https://josephlai.dev/
+[stacc repo]: https://github.com/JosephLai241/stacc
